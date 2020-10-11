@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+.h1 {
+  text-align: center;
+  font-size: 50px;
+}
+.spisok {
+  text-align: center;
+  text-transform: uppercase;
+}
+.block {
+  border: 5px solid black;
+  width: 180px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.list_style_type_none ul {
+  list-style-type: none;
+}
+.text-align_center {
+  margin-top: 20px;
+  text-align: center;
+}
+.text-align_center input {
+  font-size: 100px;
+  width: 100%;
+}
+
+.text-align_center img {
+  margin-top: 20px;
+}
+
+.img {
+  height: 500px;
+  margin-top: 50px;
+}
+
+.textarea {
+  margin-top: 20px;
+  text-align: center;
+}
