@@ -47,3 +47,4 @@ var modalBigMapClose = modalMap.querySelector(".modal-close");
 
 modal(modalWriteUs, modalWriteUsButton, modalWriteUsButtonClose);
 modal(modalMap, modalBigMap, modalBigMapClose);
+
